@@ -1,3 +1,5 @@
+Important Notice: This feature and others are available here https://github.com/pmatos/dev-scripts
+
 # scan-build-crosscheck-docker
 
 Docker image with scan-build with crosscheck support
